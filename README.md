@@ -87,7 +87,7 @@ To ensure downstream reliability, the pipeline enforces strict Data Quality (DQ)
 
 ---
 
-##  Pipeline Results
+##  Results
 
 | Batch | Input File | Quality Gate Decision | Action Taken |
 | :--- | :--- | :---: | :--- |
