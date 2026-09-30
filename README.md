@@ -1,6 +1,7 @@
 #  Customer Support Ticket Data Pipeline & RAG Assistant
 
 **Modern Data Engineering for AI Systems – Final Project (SDAIA Academy)**
+- ✅***This project was created as part of the "Modern Data Engineering for AI Systems program" at SDAIA Academy.***
 
 ---
 
